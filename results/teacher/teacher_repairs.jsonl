@@ -1,0 +1,153 @@
+{"id": "C0004", "repairs": ["date: capitalization_corrected", "time: string_null_to_json_null", "place: string_null_to_json_null"]}
+{"id": "C0008", "repairs": ["place: capitalization_corrected"]}
+{"id": "C0011", "repairs": ["time: string_null_to_json_null", "place: string_null_to_json_null"]}
+{"id": "C0012", "repairs": ["time: string_null_to_json_null", "place: string_null_to_json_null"]}
+{"id": "C0017", "repairs": ["time: string_null_to_json_null", "place: string_null_to_json_null"]}
+{"id": "C0018", "repairs": ["time: string_null_to_json_null", "place: string_null_to_json_null"]}
+{"id": "C0020", "repairs": ["place: capitalization_corrected"]}
+{"id": "C0024", "repairs": ["date: string_null_to_json_null", "place: string_null_to_json_null"]}
+{"id": "C0027", "repairs": ["time: string_null_to_json_null", "place: capitalization_corrected"]}
+{"id": "C0028", "repairs": ["date: string_null_to_json_null", "time: string_null_to_json_null", "place: capitalization_corrected"]}
+{"id": "C0030", "repairs": ["date: string_null_to_json_null", "time: string_null_to_json_null", "place: string_null_to_json_null"]}
+{"id": "C0031", "repairs": ["date: string_null_to_json_null", "place: string_null_to_json_null"]}
+{"id": "C0034", "repairs": ["time: string_null_to_json_null", "place: string_null_to_json_null"]}
+{"id": "C0035", "repairs": ["time: string_null_to_json_null", "place: string_null_to_json_null"]}
+{"id": "C0036", "repairs": ["place: capitalization_corrected"]}
+{"id": "C0037", "repairs": ["date: string_null_to_json_null", "time: string_null_to_json_null", "place: string_null_to_json_null"]}
+{"id": "C0038", "repairs": ["time: string_null_to_json_null", "place: string_null_to_json_null"]}
+{"id": "C0041", "repairs": ["time: string_null_to_json_null", "place: capitalization_corrected"]}
+{"id": "C0042", "repairs": ["date: string_null_to_json_null", "time: string_null_to_json_null", "place: string_null_to_json_null"]}
+{"id": "C0044", "repairs": ["date: string_null_to_json_null", "place: string_null_to_json_null"]}
+{"id": "C0046", "repairs": ["date: string_null_to_json_null", "time: string_null_to_json_null"]}
+{"id": "C0048", "repairs": ["date: string_null_to_json_null", "time: string_null_to_json_null", "place: string_null_to_json_null"]}
+{"id": "C0049", "repairs": ["date: string_null_to_json_null", "place: string_null_to_json_null"]}
+{"id": "C0054", "repairs": ["time: string_null_to_json_null", "place: string_null_to_json_null"]}
+{"id": "C0055", "repairs": ["time: string_null_to_json_null", "place: string_null_to_json_null"]}
+{"id": "C0057", "repairs": ["time: string_null_to_json_null", "place: string_null_to_json_null"]}
+{"id": "C0058", "repairs": ["date: string_null_to_json_null", "place: capitalization_corrected"]}
+{"id": "C0059", "repairs": ["date: string_null_to_json_null", "time: string_null_to_json_null", "place: capitalization_corrected"]}
+{"id": "C0062", "repairs": ["date: string_null_to_json_null", "time: string_null_to_json_null"]}
+{"id": "C0063", "repairs": ["place: string_null_to_json_null"]}
+{"id": "C0064", "repairs": ["place: string_null_to_json_null"]}
+{"id": "C0065", "repairs": ["time: string_null_to_json_null", "place: capitalization_corrected"]}
+{"id": "C0066", "repairs": ["time: string_null_to_json_null", "place: string_null_to_json_null"]}
+{"id": "C0068", "repairs": ["time: string_null_to_json_null", "place: string_null_to_json_null"]}
+{"id": "C0071", "repairs": ["time: string_null_to_json_null", "place: capitalization_corrected"]}
+{"id": "C0073", "repairs": ["date: string_null_to_json_null", "time: string_null_to_json_null", "place: string_null_to_json_null"]}
+{"id": "C0074", "repairs": ["time: string_null_to_json_null", "place: string_null_to_json_null"]}
+{"id": "C0075", "repairs": ["time: string_null_to_json_null", "place: string_null_to_json_null"]}
+{"id": "C0076", "repairs": ["date: string_null_to_json_null", "time: string_null_to_json_null"]}
+{"id": "C0077", "repairs": ["time: string_null_to_json_null", "place: string_null_to_json_null"]}
+{"id": "C0078", "repairs": ["date: string_null_to_json_null", "time: string_null_to_json_null", "place: string_null_to_json_null"]}
+{"id": "C0080", "repairs": ["date: capitalization_corrected"]}
+{"id": "C0082", "repairs": ["time: string_null_to_json_null", "place: string_null_to_json_null"]}
+{"id": "C0085", "repairs": ["place: capitalization_corrected"]}
+{"id": "C0086", "repairs": ["time: string_null_to_json_null", "place: string_null_to_json_null"]}
+{"id": "C0087", "repairs": ["date: string_null_to_json_null", "time: string_null_to_json_null", "place: string_null_to_json_null"]}
+{"id": "C0088", "repairs": ["time: string_null_to_json_null", "place: string_null_to_json_null"]}
+{"id": "C0092", "repairs": ["time: string_null_to_json_null", "place: string_null_to_json_null"]}
+{"id": "C0093", "repairs": ["date: string_null_to_json_null", "time: string_null_to_json_null", "place: capitalization_corrected"]}
+{"id": "C0095", "repairs": ["date: capitalization_corrected"]}
+{"id": "C0096", "repairs": ["date: string_null_to_json_null", "place: string_null_to_json_null"]}
+{"id": "C0097", "repairs": ["date: capitalization_corrected", "place: capitalization_corrected"]}
+{"id": "C0099", "repairs": ["date: string_null_to_json_null", "time: string_null_to_json_null", "place: string_null_to_json_null"]}
+{"id": "C0100", "repairs": ["time: string_null_to_json_null", "place: string_null_to_json_null"]}
+{"id": "C0101", "repairs": ["place: string_null_to_json_null"]}
+{"id": "C0104", "repairs": ["date: string_null_to_json_null", "place: string_null_to_json_null"]}
+{"id": "C0103", "repairs": ["time: string_null_to_json_null", "place: string_null_to_json_null"]}
+{"id": "C0105", "repairs": ["time: string_null_to_json_null", "place: string_null_to_json_null"]}
+{"id": "C0106", "repairs": ["time: string_null_to_json_null", "place: string_null_to_json_null"]}
+{"id": "C0107", "repairs": ["date: string_null_to_json_null", "time: capitalization_corrected", "place: capitalization_corrected"]}
+{"id": "C0108", "repairs": ["date: string_null_to_json_null", "time: string_null_to_json_null", "place: string_null_to_json_null"]}
+{"id": "C0109", "repairs": ["date: string_null_to_json_null", "time: string_null_to_json_null", "place: capitalization_corrected"]}
+{"id": "C0110", "repairs": ["date: string_null_to_json_null", "time: string_null_to_json_null", "place: capitalization_corrected"]}
+{"id": "C0113", "repairs": ["time: string_null_to_json_null", "place: string_null_to_json_null"]}
+{"id": "C0116", "repairs": ["place: string_null_to_json_null"]}
+{"id": "C0121", "repairs": ["date: string_null_to_json_null", "time: string_null_to_json_null", "place: capitalization_corrected"]}
+{"id": "C0124", "repairs": ["time: string_null_to_json_null", "place: string_null_to_json_null"]}
+{"id": "C0126", "repairs": ["time: string_null_to_json_null", "place: string_null_to_json_null"]}
+{"id": "C0127", "repairs": ["time: string_null_to_json_null", "place: string_null_to_json_null"]}
+{"id": "C0128", "repairs": ["date: string_null_to_json_null", "time: string_null_to_json_null"]}
+{"id": "C0131", "repairs": ["date: string_null_to_json_null", "time: string_null_to_json_null", "place: string_null_to_json_null"]}
+{"id": "C0132", "repairs": ["date: string_null_to_json_null", "time: string_null_to_json_null", "place: capitalization_corrected"]}
+{"id": "C0134", "repairs": ["time: string_null_to_json_null", "place: string_null_to_json_null"]}
+{"id": "C0136", "repairs": ["time: string_null_to_json_null", "place: string_null_to_json_null"]}
+{"id": "C0137", "repairs": ["date: string_null_to_json_null", "time: string_null_to_json_null", "place: capitalization_corrected"]}
+{"id": "C0138", "repairs": ["time: string_null_to_json_null", "place: string_null_to_json_null"]}
+{"id": "C0140", "repairs": ["time: string_null_to_json_null", "place: string_null_to_json_null"]}
+{"id": "C0141", "repairs": ["time: string_null_to_json_null", "place: string_null_to_json_null"]}
+{"id": "C0144", "repairs": ["place: string_null_to_json_null"]}
+{"id": "C0147", "repairs": ["time: string_null_to_json_null", "place: string_null_to_json_null"]}
+{"id": "C0152", "repairs": ["time: string_null_to_json_null", "place: string_null_to_json_null"]}
+{"id": "C0153", "repairs": ["time: string_null_to_json_null"]}
+{"id": "C0154", "repairs": ["place: capitalization_corrected"]}
+{"id": "C0155", "repairs": ["time: string_null_to_json_null"]}
+{"id": "C0156", "repairs": ["date: string_null_to_json_null", "place: string_null_to_json_null"]}
+{"id": "C0157", "repairs": ["time: string_null_to_json_null", "place: string_null_to_json_null"]}
+{"id": "C0162", "repairs": ["time: string_null_to_json_null", "place: string_null_to_json_null"]}
+{"id": "C0169", "repairs": ["time: string_null_to_json_null", "place: string_null_to_json_null"]}
+{"id": "C0174", "repairs": ["date: string_null_to_json_null", "place: string_null_to_json_null"]}
+{"id": "C0175", "repairs": ["time: capitalization_corrected"]}
+{"id": "C0177", "repairs": ["place: string_null_to_json_null"]}
+{"id": "C0178", "repairs": ["time: string_null_to_json_null", "place: string_null_to_json_null"]}
+{"id": "C0179", "repairs": ["date: string_null_to_json_null", "time: string_null_to_json_null"]}
+{"id": "C0181", "repairs": ["time: string_null_to_json_null", "place: string_null_to_json_null"]}
+{"id": "C0183", "repairs": ["date: string_null_to_json_null", "time: string_null_to_json_null"]}
+{"id": "C0184", "repairs": ["time: string_null_to_json_null", "place: string_null_to_json_null"]}
+{"id": "C0185", "repairs": ["time: string_null_to_json_null", "place: string_null_to_json_null"]}
+{"id": "C0186", "repairs": ["place: string_null_to_json_null"]}
+{"id": "C0187", "repairs": ["date: string_null_to_json_null", "time: string_null_to_json_null", "place: capitalization_corrected"]}
+{"id": "C0188", "repairs": ["time: string_null_to_json_null", "place: string_null_to_json_null"]}
+{"id": "C0189", "repairs": ["time: string_null_to_json_null", "place: string_null_to_json_null"]}
+{"id": "C0191", "repairs": ["place: capitalization_corrected"]}
+{"id": "C0193", "repairs": ["date: string_null_to_json_null", "place: string_null_to_json_null"]}
+{"id": "C0194", "repairs": ["place: capitalization_corrected"]}
+{"id": "C0195", "repairs": ["date: string_null_to_json_null", "place: string_null_to_json_null"]}
+{"id": "C0197", "repairs": ["time: string_null_to_json_null", "place: string_null_to_json_null"]}
+{"id": "C0199", "repairs": ["date: string_null_to_json_null", "time: string_null_to_json_null", "place: string_null_to_json_null"]}
+{"id": "C0202", "repairs": ["place: string_null_to_json_null"]}
+{"id": "C0374", "repairs": ["date: capitalization_corrected"]}
+{"id": "C0427", "repairs": ["time: capitalization_corrected"]}
+{"id": "C0257", "repairs": ["time: string_null_to_json_null"]}
+{"id": "C0533", "repairs": ["time: capitalization_corrected", "place: capitalization_corrected"]}
+{"id": "C0571", "repairs": ["place: capitalization_corrected"]}
+{"id": "C0637", "repairs": ["time: string_null_to_json_null"]}
+{"id": "C0738", "repairs": ["time: capitalization_corrected", "place: capitalization_corrected"]}
+{"id": "C0956", "repairs": ["time: string_null_to_json_null"]}
+{"id": "C0957", "repairs": ["time: capitalization_corrected", "place: capitalization_corrected"]}
+{"id": "C1178", "repairs": ["time: capitalization_corrected"]}
+{"id": "C1374", "repairs": ["time: string_null_to_json_null"]}
+{"id": "C1409", "repairs": ["time: string_null_to_json_null", "place: string_null_to_json_null"]}
+{"id": "C1465", "repairs": ["date: capitalization_corrected"]}
+{"id": "C1578", "repairs": ["date: string_null_to_json_null", "time: string_null_to_json_null"]}
+{"id": "C1585", "repairs": ["time: string_null_to_json_null", "place: string_null_to_json_null"]}
+{"id": "C1602", "repairs": ["place: capitalization_corrected"]}
+{"id": "C1629", "repairs": ["time: string_null_to_json_null"]}
+{"id": "C1693", "repairs": ["place: capitalization_corrected"]}
+{"id": "C1706", "repairs": ["time: string_null_to_json_null", "place: string_null_to_json_null"]}
+{"id": "C1786", "repairs": ["date: capitalization_corrected"]}
+{"id": "C1940", "repairs": ["time: capitalization_corrected", "place: capitalization_corrected"]}
+{"id": "C1945", "repairs": ["time: string_null_to_json_null"]}
+{"id": "C1949", "repairs": ["place: capitalization_corrected"]}
+{"id": "C1993", "repairs": ["date: capitalization_corrected"]}
+{"id": "C2085", "repairs": ["date: capitalization_corrected"]}
+{"id": "C2086", "repairs": ["time: capitalization_corrected"]}
+{"id": "C2142", "repairs": ["time: capitalization_corrected"]}
+{"id": "C2156", "repairs": ["date: capitalization_corrected", "place: capitalization_corrected"]}
+{"id": "C2157", "repairs": ["time: capitalization_corrected"]}
+{"id": "C2268", "repairs": ["place: capitalization_corrected"]}
+{"id": "C2353", "repairs": ["time: string_null_to_json_null"]}
+{"id": "C2390", "repairs": ["time: capitalization_corrected"]}
+{"id": "C2410", "repairs": ["time: string_null_to_json_null", "place: string_null_to_json_null"]}
+{"id": "C2435", "repairs": ["date: capitalization_corrected"]}
+{"id": "C2486", "repairs": ["date: capitalization_corrected"]}
+{"id": "C2508", "repairs": ["time: string_null_to_json_null", "place: string_null_to_json_null"]}
+{"id": "C2539", "repairs": ["place: capitalization_corrected"]}
+{"id": "C2685", "repairs": ["time: capitalization_corrected"]}
+{"id": "C2709", "repairs": ["time: string_null_to_json_null"]}
+{"id": "C2844", "repairs": ["place: capitalization_corrected"]}
+{"id": "C2900", "repairs": ["time: string_null_to_json_null"]}
+{"id": "C2958", "repairs": ["date: string_null_to_json_null", "time: string_null_to_json_null"]}
+{"id": "C2967", "repairs": ["time: string_null_to_json_null", "place: string_null_to_json_null"]}
+{"id": "C2973", "repairs": ["place: capitalization_corrected"]}
+{"id": "C2988", "repairs": ["date: string_null_to_json_null", "time: string_null_to_json_null", "place: capitalization_corrected"]}

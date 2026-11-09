@@ -1,0 +1,10 @@
+{
+  "validation_records": 100,
+  "parse_success": 100,
+  "parse_success_rate": 100.0,
+  "intent_accuracy": 77.0,
+  "date_accuracy": 85.0,
+  "time_accuracy": 84.0,
+  "place_accuracy": 86.0,
+  "exact_match_accuracy": 50.0
+}

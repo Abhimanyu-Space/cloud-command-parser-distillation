@@ -1,0 +1,25 @@
+﻿master:
+  data:
+    type: persistentVolumeClaim
+    size: 1Gi
+    storageClass: local-path
+
+volume:
+  dataDirs:
+    - name: data1
+      type: persistentVolumeClaim
+      size: 5Gi
+      storageClass: local-path
+      maxVolumes: 0
+
+filer:
+  data:
+    type: persistentVolumeClaim
+    size: 1Gi
+    storageClass: local-path
+
+s3:
+  enabled: true
+  createBuckets:
+    - name: datasets
+    - name: models

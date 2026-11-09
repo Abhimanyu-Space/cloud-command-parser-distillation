@@ -1,0 +1,8 @@
+{
+  "per_replica": {
+    "local-cpu": 129
+  },
+  "per_model_version": {
+    "full2972_v2": 129
+  }
+}

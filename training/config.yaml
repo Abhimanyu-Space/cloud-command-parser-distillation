@@ -1,0 +1,41 @@
+project:
+  name: command-parser-distillation
+  seed: 42
+
+model:
+  name: EleutherAI/pythia-70m
+  max_length: 256
+  max_new_tokens: 100
+
+data:
+  train_file: results/teacher/teacher_labeled.jsonl
+  validation_file: data/validation.jsonl
+  id_column: id
+  text_column: text
+  target_columns:
+    - intent
+    - date
+    - time
+    - place
+
+training:
+  device: cpu
+  epochs: 3
+  learning_rate: 0.00001
+  weight_decay: 0.01
+  batch_size: 4
+  gradient_accumulation_steps: 4
+  warmup_ratio: 0.05
+  logging_steps: 10
+  seed: 42
+
+output:
+  model_directory: models
+  checkpoint_v1: models/v1
+  checkpoint_v2: models/v2
+  results_directory: results/training
+
+distillation:
+  method: sequence_level
+  target_source: teacher_labeled.jsonl
+  prompt_masking: true

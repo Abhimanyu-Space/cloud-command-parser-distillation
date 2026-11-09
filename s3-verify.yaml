@@ -1,0 +1,28 @@
+﻿apiVersion: v1
+kind: Pod
+metadata:
+  name: s3-verify
+  namespace: pipeline
+spec:
+  restartPolicy: Never
+  containers:
+    - name: verify
+      image: command-parser-worker:1.0
+      imagePullPolicy: IfNotPresent
+      command: ["python", "-c"]
+      args:
+        - |
+          import os, json, boto3
+          s = boto3.client("s3", endpoint_url=os.environ["S3_ENDPOINT"], region_name="us-east-1")
+          for i in range(2):
+              key = f"teacher/shard-{i}.jsonl"
+              lines = s.get_object(Bucket="datasets", Key=key)["Body"].read().decode("utf-8").splitlines()
+              records = [json.loads(x) for x in lines if x.strip()]
+              ids = [r.get("id") for r in records]
+              print(f"{key}: records={len(records)}, unique_ids={len(set(ids))}, invalid_ids={sum(x is None for x in ids)}", flush=True)
+      env:
+        - name: S3_ENDPOINT
+          value: "http://seaweedfs.data.svc.cluster.local:8333"
+      envFrom:
+        - secretRef:
+            name: s3-credentials

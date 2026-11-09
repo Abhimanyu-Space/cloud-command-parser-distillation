@@ -1,0 +1,3 @@
+{"id": "C0002", "text": "i need a reminder at two hundred every day to check on my mother", "intent": "datetime_query", "date": "every day", "time": "two hundred", "place": "check on my mother"}
+{"id": "C0001", "text": "do i have any meetings scheduled the weekend after next", "intent": "calendar_query", "date": "the weekend after next", "time": null, "place": null}
+{"id": "C0003", "text": "remind me of the meeting on tuesday", "intent": "calendar_remove", "date": "tuesday", "time": null, "place": null}

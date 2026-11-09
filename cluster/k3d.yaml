@@ -1,0 +1,9 @@
+﻿apiVersion: k3d.io/v1alpha5
+kind: Simple
+metadata:
+  name: cloud-assignment
+servers: 1
+agents: 1
+options:
+  k3d:
+    disableLoadbalancer: true

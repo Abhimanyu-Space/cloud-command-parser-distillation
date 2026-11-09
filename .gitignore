@@ -1,0 +1,12 @@
+﻿.venv/
+__pycache__/
+*.py[cod]
+*.bak
+models/
+results/teacher/raw/
+results/teacher/teacher_labeled.jsonl
+results/teacher/teacher_raw.jsonl
+results/teacher/teacher_labeled.pilot_backup.jsonl
+.env
+.env.*
+!.env.example

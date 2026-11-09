@@ -1,0 +1,5 @@
+torch==2.15.0+cpu
+transformers==5.22.1
+fastapi==0.162.0
+uvicorn==0.54.0
+safetensors
